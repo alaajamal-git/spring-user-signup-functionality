@@ -1,10 +1,10 @@
-package com.photoapp.api.zuul;
+package com.mobileapp.api.zuul;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PhotoAppApiGatewayApplicationTests {
+class MobileAppApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
